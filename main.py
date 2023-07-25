@@ -8,7 +8,7 @@ import database
 
 storage = MemoryStorage()
 
-bot = Bot('5903171243:AAFnX5P8xA7dqB57t7JpzAGoAdE-gxRJU7c')
+bot = Bot('TOKEN')
 dp = Dispatcher(bot, storage=storage)
 
 
